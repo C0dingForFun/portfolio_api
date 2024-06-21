@@ -1,7 +1,6 @@
-{
-    "data":{
-        "aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy",
-        "projects":[
+{"data":[
+        {"aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy"},
+        {"projects":[
             {
                 "name":"Calculator",
                 "github":"https://github.com/C0dingForFun/calculator",
@@ -73,37 +72,37 @@
                 "image":"url"
             }
             
-        ],
-        "education":[
+        ]},
+        {"education":[
             {
                 "description":"",
                 "year":"2nd April - current",
                 "placeOfInstitution":[
                     {
-                        "nameOfinstitution":"Spine Road High School",
+                        "nameOfInstitution":"Spine Road High School",
                         "year":"2018-2022",
                         "subjects":"English Home Language, Afrikaans First Additional Language, Pure Maths, Life Science, information Technology, Business Studies"
                     },
                     {
-                        "nameOfinstitution":"College Of Cape Town",
+                        "nameOfInstitution":"College Of Cape Town",
                         "year":"2023",
                         "course":"MSITA Web Development "
                     },
                     {
-                        "nameOfinstitution":"Life Choices Academy",
+                        "nameOfInstitution":"Life Choices Academy",
                         "year":"2024 - current",
                         "course":"Bootcamp"
                     }
                 ],
-                "conatct":[
+                "conatact":[
                     {
                         "name":"Mr. MIKE van der HEEVER (HOD)",
                         "contactDetails":["number:(021) 696 5133", "email:mvdheever@cct.edu.za" ]
                     }
                 ]
             }
-        ],
-        "skills":[
+        ]},
+        {"skills":[
             {
                 "name":"HTML Icon",
                 "image":"url"
@@ -144,8 +143,8 @@
                 "name":"Vue 3 Icon",
                 "image":"url"
             }
-        ],
-        "workExp":[
+        ]},
+        {"workExp":[
             {
                 "placeOfWork":"LC Studio",
                 "year":"2024 - current",
@@ -159,14 +158,14 @@
                     }
                 ]
             }
-        ],
-        "testimonials":[
+        ]},
+       { "testimonials":[
             {
                 "name":"",
                 "position":"",
                 "message":"",
                 "image":"url"
             }
-        ]
-    }
+        ]}
+    ]
 }
