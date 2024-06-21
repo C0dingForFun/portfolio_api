@@ -1,170 +1,172 @@
 {
-    "aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy",
-    "projects":[
-        {
-            "name":"Calculator",
-            "github":"https://github.com/C0dingForFun/calculator",
-            "vercel":"calculator-murex-seven.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"BMI Calculator",
-            "github":"https://github.com/C0dingForFun/bmi",
-            "vercel":"bmi-hazel.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Swegga",
-            "github":"https://github.com/C0dingForFun/swegga",
-            "vercel":"swegga-opal.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Urbantonic",
-            "github":"https://github.com/C0dingForFun/urbantonic",
-            "vercel":"urbantonic.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Sun Eco Travel",
-            "github":"https://github.com/C0dingForFun/sun-eco",
-            "vercel":"sun-eco.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Age-To-Days",
-            "github":"https://github.com/C0dingForFun/ageToDays",
-            "vercel":"age-to-days-phi.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Temperature",
-            "github":"https://github.com/C0dingForFun/temperature",
-            "vercel":"temperature-dun.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Sum' Kicks",
-            "github":"https://github.com/C0dingForFun/Sum_Kicks",
-            "vercel":"sum-kicks.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"RGB-To-Hex",
-            "github":"https://github.com/C0dingForFun/rgb2hex",
-            "vercel":"rgb2hex-woad.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        },
-        {
-            "name":"Hulu",
-            "github":"https://github.com/C0dingForFun/Hulu",
-            "vercel":"hulu-olive.vercel.app",
-            "description":"I used ...",
-            "image":"url"
-        }
-        
-    ],
-    "education":[
-        {
-            "description":"",
-            "year":"2nd April - current",
-            "placeOfInstitution":[
-                {
-                    "nameOfinstitution":"Spine Road High School",
-                    "year":"2018-2022",
-                    "subjects":"English Home Language, Afrikaans First Additional Language, Pure Maths, Life Science, information Technology, Business Studies"
-                },
-                {
-                    "nameOfinstitution":"College Of Cape Town",
-                    "year":"2023",
-                    "course":"MSITA Web Development "
-                },
-                {
-                    "nameOfinstitution":"Life Choices Academy",
-                    "year":"2024 - current",
-                    "course":"Bootcamp"
-                }
-            ],
-            "conatct":[
-                {
-                    "name":"Mr. MIKE van der HEEVER (HOD)",
-                    "contactDetails":["number:(021) 696 5133", "email:mvdheever@cct.edu.za" ]
-                }
-            ]
-        }
-    ],
-    "skills":[
-        {
-            "name":"HTML Icon",
-            "image":"url"
-        },
-        {
-            "name":"CSS Icon",
-            "image":"url"
-        },
-        {
-            "name":"Javascript Icon",
-            "image":"url"
-        },
-        {
-            "name":"Bootstrap Icon",
-            "image":"url"
-        },
-        {
-            "name":"Git Icon",
-            "image":"url"
-        },
-        {
-            "name":"C# Icon",
-            "image":"url"
-        },
-        {
-            "name":"SQL Icon",
-            "image":"url"
-        },
-        {
-            "name":"MySQL Icon",
-            "image":"url"
-        },
-        {
-            "name":"Python Icon",
-            "image":"url"
-        },
-        {
-            "name":"Vue 3 Icon",
-            "image":"url"
-        }
-    ],
-    "workExp":[
-        {
-            "placeOfWork":"LC Studio",
-            "year":"2024 - current",
-            "description":"",
-            "contact":[
-                {
-                    "name":"",
-                    "cell":"",
-                    "email":"",
-                    "position":""
-                }
-            ]
-        }
-    ],
-    "testimonials":[
-        {
-            "name":"",
-            "position":"",
-            "message":"",
-            "image":"url"
-        }
-    ]
+    "data":{
+        "aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy",
+        "projects":[
+            {
+                "name":"Calculator",
+                "github":"https://github.com/C0dingForFun/calculator",
+                "vercel":"calculator-murex-seven.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"BMI Calculator",
+                "github":"https://github.com/C0dingForFun/bmi",
+                "vercel":"bmi-hazel.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Swegga",
+                "github":"https://github.com/C0dingForFun/swegga",
+                "vercel":"swegga-opal.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Urbantonic",
+                "github":"https://github.com/C0dingForFun/urbantonic",
+                "vercel":"urbantonic.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Sun Eco Travel",
+                "github":"https://github.com/C0dingForFun/sun-eco",
+                "vercel":"sun-eco.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Age-To-Days",
+                "github":"https://github.com/C0dingForFun/ageToDays",
+                "vercel":"age-to-days-phi.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Temperature",
+                "github":"https://github.com/C0dingForFun/temperature",
+                "vercel":"temperature-dun.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Sum' Kicks",
+                "github":"https://github.com/C0dingForFun/Sum_Kicks",
+                "vercel":"sum-kicks.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"RGB-To-Hex",
+                "github":"https://github.com/C0dingForFun/rgb2hex",
+                "vercel":"rgb2hex-woad.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            },
+            {
+                "name":"Hulu",
+                "github":"https://github.com/C0dingForFun/Hulu",
+                "vercel":"hulu-olive.vercel.app",
+                "description":"I used ...",
+                "image":"url"
+            }
+            
+        ],
+        "education":[
+            {
+                "description":"",
+                "year":"2nd April - current",
+                "placeOfInstitution":[
+                    {
+                        "nameOfinstitution":"Spine Road High School",
+                        "year":"2018-2022",
+                        "subjects":"English Home Language, Afrikaans First Additional Language, Pure Maths, Life Science, information Technology, Business Studies"
+                    },
+                    {
+                        "nameOfinstitution":"College Of Cape Town",
+                        "year":"2023",
+                        "course":"MSITA Web Development "
+                    },
+                    {
+                        "nameOfinstitution":"Life Choices Academy",
+                        "year":"2024 - current",
+                        "course":"Bootcamp"
+                    }
+                ],
+                "conatct":[
+                    {
+                        "name":"Mr. MIKE van der HEEVER (HOD)",
+                        "contactDetails":["number:(021) 696 5133", "email:mvdheever@cct.edu.za" ]
+                    }
+                ]
+            }
+        ],
+        "skills":[
+            {
+                "name":"HTML Icon",
+                "image":"url"
+            },
+            {
+                "name":"CSS Icon",
+                "image":"url"
+            },
+            {
+                "name":"Javascript Icon",
+                "image":"url"
+            },
+            {
+                "name":"Bootstrap Icon",
+                "image":"url"
+            },
+            {
+                "name":"Git Icon",
+                "image":"url"
+            },
+            {
+                "name":"C# Icon",
+                "image":"url"
+            },
+            {
+                "name":"SQL Icon",
+                "image":"url"
+            },
+            {
+                "name":"MySQL Icon",
+                "image":"url"
+            },
+            {
+                "name":"Python Icon",
+                "image":"url"
+            },
+            {
+                "name":"Vue 3 Icon",
+                "image":"url"
+            }
+        ],
+        "workExp":[
+            {
+                "placeOfWork":"LC Studio",
+                "year":"2024 - current",
+                "description":"",
+                "contact":[
+                    {
+                        "name":"",
+                        "cell":"",
+                        "email":"",
+                        "position":""
+                    }
+                ]
+            }
+        ],
+        "testimonials":[
+            {
+                "name":"",
+                "position":"",
+                "message":"",
+                "image":"url"
+            }
+        ]
+    }
 }
