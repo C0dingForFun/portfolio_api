@@ -1,6 +1,6 @@
-{"data":[
-        {"aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy"},
-        {"projects":[
+{"data":{
+        "aboutMe":"My name is Gwiba Mabandla and I am Bootstrap guy",
+        "projects":[
             {
                 "name":"Calculator",
                 "github":"https://github.com/C0dingForFun/calculator",
@@ -72,8 +72,8 @@
                 "image":"url"
             }
             
-        ]},
-        {"education":[
+        ],
+        "education":[
             {
                 "description":"",
                 "year":"2nd April - current",
@@ -101,8 +101,8 @@
                     }
                 ]
             }
-        ]},
-        {"skills":[
+        ],
+        "skills":[
             {
                 "name":"HTML Icon",
                 "image":"url"
@@ -143,8 +143,8 @@
                 "name":"Vue 3 Icon",
                 "image":"url"
             }
-        ]},
-        {"workExp":[
+        ],
+        "workExp":[
             {
                 "placeOfWork":"LC Studio",
                 "year":"2024 - current",
@@ -158,14 +158,14 @@
                     }
                 ]
             }
-        ]},
-       { "testimonials":[
+        ],
+        "testimonials":[
             {
                 "name":"",
                 "position":"",
                 "message":"",
                 "image":"url"
             }
-        ]}
-    ]
+        ]
+}   
 }
