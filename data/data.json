@@ -84,21 +84,26 @@
         ],
         "education":[
             {
+                "eduTimeline":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Education.png",
+                "workTimeline":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Education2.png",
                 "placeOfInstitution":[
                     {
                         "nameOfInstitution":"Spine Road High School",
                         "year":"2018-2022",
-                        "subjects":"English Home Language, Afrikaans First Additional Language, Pure Maths, Life Science, information Technology, Business Studies"
+                        "techBackground":"Information Technology",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/spine-road-logo.png"
                     },
                     {
                         "nameOfInstitution":"College Of Cape Town",
                         "year":"2023",
-                        "course":"MSITA Web Development "
+                        "course":"MSITA Web Development ",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/college_of_cape_town_logo.png"
                     },
                     {
                         "nameOfInstitution":"Life Choices Academy",
                         "year":"2024 - current",
-                        "course":"Bootcamp"
+                        "course":"Bootcamp",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Life-choices.png"
                     }
                 ],
                 "contact":[
