@@ -1,5 +1,14 @@
 {
-        "aboutMe":"Hello, I am Gwiba Mabandla",
+        "aboutMe":[
+            {
+                "me":"Hello, I am Gwiba Mabandla",
+                "name":"Gwiba Mabandla",
+                "age":19,
+                "hobbies":"Football and Photography",
+                "aspiringToBe":"Back-end developer"
+
+            }
+        ],
         "projects":[
             {
                 "name":"Calculator",
@@ -94,7 +103,7 @@
                         "course":"Bootcamp"
                     }
                 ],
-                "conatact":[
+                "contact":[
                     {
                         "name":"Mr. MIKE van der HEEVER (HOD)",
                         "contactDetails":["number:(021) 696 5133", "email:mvdheever@cct.edu.za" ]
