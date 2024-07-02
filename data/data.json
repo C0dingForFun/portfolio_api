@@ -1,11 +1,11 @@
 {
         "aboutMe":[
             {
-                "me":"Hello, I am Gwiba Mabandla",
+                "me":"Hello, I am Gwiba Mabandla, I am an ",
                 "name":"Gwiba Mabandla",
                 "age":"19",
                 "hobbies":"Football and Photography",
-                "aspiringToBe":"Back-end Developer",
+                "aspiringToBe":"Back-end Developer & Software Development",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/Me.png"
             }
         ],
