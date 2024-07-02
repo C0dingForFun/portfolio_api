@@ -5,8 +5,8 @@
                 "name":"Gwiba Mabandla",
                 "age":"19",
                 "hobbies":"Football and Photography",
-                "aspiringToBe":"Back-end Developer"
-
+                "aspiringToBe":"Back-end Developer",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/Me.png"
             }
         ],
         "projects":[
