@@ -13,42 +13,42 @@
             {
                 "name":"Sum' Kicks",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
-                "vercel":"sum-kicks.vercel.app",
+                "vercel":"https://sum-kicks.vercel.app",
                 "description":"I used HTML,CSS and Javascript to create this shoe website",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
             },
             {
                 "name":"Sun Eco Travel",
                 "github":"https://github.com/C0dingForFun/sun-eco",
-                "vercel":"sun-eco.vercel.app",
+                "vercel":"https://sun-eco.vercel.app",
                 "description":"I used ...",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
                 "name":"Urbantonic",
                 "github":"https://github.com/C0dingForFun/urbantonic",
-                "vercel":"urbantonic.vercel.app",
+                "vercel":"https://urbantonic.vercel.app",
                 "description":"I used ...",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
             },
             {
-                "name":"Hulu",
+                "name":"Hulu Clone",
                 "github":"https://github.com/C0dingForFun/Hulu",
-                "vercel":"hulu-olive.vercel.app",
+                "vercel":"https://hulu-olive.vercel.app",
                 "description":"I used ...",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Hulu.png"
             },
             {
                 "name":"Calculator",
                 "github":"https://github.com/C0dingForFun/calculator",
-                "vercel":"calculator-murex-seven.vercel.app",
+                "vercel":"https://calculator-murex-seven.vercel.app",
                 "description":"I used ...",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Calculator.png"
             },
             {
                 "name":"BMI Calculator",
                 "github":"https://github.com/C0dingForFun/Images/Projects/Wed2.png",
-                "vercel":"bmi-hazel.vercel.app",
+                "vercel":"https://bmi-hazel.vercel.app",
                 "description":"I used ...",
                 "image":"url"
             }
