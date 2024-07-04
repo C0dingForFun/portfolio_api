@@ -119,27 +119,33 @@
               "programmingSkills":[
                     {
                         "language":"HTML5",
-                        "iconClass":"lab la-html5"
+                        "iconClass":"lab la-html5",
+                        "level":"Advanced"
                     },
                     {
                         "language":"CSS3",
-                        "iconClass":"lab la-css3"
+                        "iconClass":"lab la-css3",
+                        "level":"Advanced"
                     },
                     {
                         "language":"Bootstrap5",
-                        "iconClass":"lab la-bootstrap"
+                        "iconClass":"lab la-bootstrap",
+                        "level":"Advanced"
                     },
                     {
                         "language":"Javascript",
-                        "iconClass":"lab la-js"
+                        "iconClass":"lab la-js",
+                        "level":"Intermediate"
                     },
                     {
                         "language":"Vue JS 3",
-                        "iconClass":"lab la-vuejs"
+                        "iconClass":"lab la-vuejs",
+                        "level":"Intermediate"
                     },
                     {
                         "language":"SQL",
-                        "iconClass":"fa-database"
+                        "iconClass":"fa-regular fa-database",
+                        "level":"Advanced"
                     }
                 ],
                 "softSkills":[
