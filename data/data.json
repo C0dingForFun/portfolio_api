@@ -11,75 +11,75 @@
         ],
         "projects":[
             {
-                "name":"Calculator",
-                "github":"https://github.com/C0dingForFun/calculator",
-                "vercel":"calculator-murex-seven.vercel.app",
-                "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"BMI Calculator",
-                "github":"https://github.com/C0dingForFun/bmi",
-                "vercel":"bmi-hazel.vercel.app",
-                "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"Swegga",
-                "github":"https://github.com/C0dingForFun/swegga",
-                "vercel":"swegga-opal.vercel.app",
-                "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"Urbantonic",
-                "github":"https://github.com/C0dingForFun/urbantonic",
-                "vercel":"urbantonic.vercel.app",
-                "description":"I used ...",
-                "image":"url"
+                "name":"Sum' Kicks",
+                "github":"https://github.com/C0dingForFun/Sum_Kicks",
+                "vercel":"sum-kicks.vercel.app",
+                "description":"I used HTML,CSS and Javascript to create this shoe website",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
             },
             {
                 "name":"Sun Eco Travel",
                 "github":"https://github.com/C0dingForFun/sun-eco",
                 "vercel":"sun-eco.vercel.app",
                 "description":"I used ...",
-                "image":"url"
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
-                "name":"Age-To-Days",
-                "github":"https://github.com/C0dingForFun/ageToDays",
-                "vercel":"age-to-days-phi.vercel.app",
+                "name":"Urbantonic",
+                "github":"https://github.com/C0dingForFun/urbantonic",
+                "vercel":"urbantonic.vercel.app",
                 "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"Temperature",
-                "github":"https://github.com/C0dingForFun/temperature",
-                "vercel":"temperature-dun.vercel.app",
-                "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"Sum' Kicks",
-                "github":"https://github.com/C0dingForFun/Sum_Kicks",
-                "vercel":"sum-kicks.vercel.app",
-                "description":"I used ...",
-                "image":"url"
-            },
-            {
-                "name":"RGB-To-Hex",
-                "github":"https://github.com/C0dingForFun/rgb2hex",
-                "vercel":"rgb2hex-woad.vercel.app",
-                "description":"I used ...",
-                "image":"url"
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
             },
             {
                 "name":"Hulu",
                 "github":"https://github.com/C0dingForFun/Hulu",
                 "vercel":"hulu-olive.vercel.app",
                 "description":"I used ...",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Hulu.png"
+            },
+            {
+                "name":"Calculator",
+                "github":"https://github.com/C0dingForFun/calculator",
+                "vercel":"calculator-murex-seven.vercel.app",
+                "description":"I used ...",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Calculator.png"
+            },
+            {
+                "name":"BMI Calculator",
+                "github":"https://github.com/C0dingForFun/Images/Projects/Wed2.png",
+                "vercel":"bmi-hazel.vercel.app",
+                "description":"I used ...",
                 "image":"url"
             }
+            // {
+            //     "name":"Swegga",
+            //     "github":"https://github.com/C0dingForFun/swegga",
+            //     "vercel":"swegga-opal.vercel.app",
+            //     "description":"I used ...",
+            //     "image":"url"
+            // },
+            // {
+            //     "name":"Age-To-Days",
+            //     "github":"https://github.com/C0dingForFun/ageToDays",
+            //     "vercel":"age-to-days-phi.vercel.app",
+            //     "description":"I used ...",
+            //     "image":"url"
+            // },
+            // {
+            //     "name":"Temperature",
+            //     "github":"https://github.com/C0dingForFun/temperature",
+            //     "vercel":"temperature-dun.vercel.app",
+            //     "description":"I used ...",
+            //     "image":"url"
+            // },
+            // {
+            //     "name":"RGB-To-Hex",
+            //     "github":"https://github.com/C0dingForFun/rgb2hex",
+            //     "vercel":"rgb2hex-woad.vercel.app",
+            //     "description":"I used ...",
+            //     "image":"url"
+            // } 
             
         ],
         "education":[
