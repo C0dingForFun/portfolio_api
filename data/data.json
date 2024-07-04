@@ -151,19 +151,9 @@
                 "iconClass":"las la-assistive-listening-systems"
             },
             {
-                "softSkill":"Responsive",
-                "description":"Advanced at creating responsiveness.",
-                "iconClass":"las la-mobile"
-            },
-            {
                 "softSkill":"Communication",
-                "description":"I love working in large groups",
-                "iconClass":"as la-microphone"
-            },
-            {
-                "softSkill":"Team Player",
-                "description":"I love working in large groups",
-                "iconClass":"fa-regular fa-database"
+                "description":"I am not afraid to voice my opinions",
+                "iconClass":"las la-microphone"
             }
         ],
         "workExp":[
