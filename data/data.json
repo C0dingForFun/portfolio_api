@@ -47,10 +47,10 @@
             },
             {
                 "name":"BMI Calculator",
-                "github":"https://github.com/C0dingForFun/Images/Projects/Wed2.png",
+                "github":"https://github.com/C0dingForFun/Images/Projects/Wed2.jpg",
                 "vercel":"https://bmi-hazel.vercel.app",
                 "description":"I used ...",
-                "image":"url"
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Calculator.png"
             }
             
         ],
