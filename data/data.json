@@ -116,45 +116,51 @@
         ],
         "skills":[
             {
-                "language":"HTML5",
-                "iconClass":"lab la-html5"
-            },
-            {
-                "language":"CSS3",
-                "iconClass":"lab la-css3"
-            },
-            {
-                "language":"Bootstrap5",
-                "iconClass":"lab la-bootstrap"
-            },
-            {
-                "language":"Javascript",
-                "iconClass":"lab la-js"
-            },
-            {
-                "language":"Vue JS 3",
-                "iconClass":"lab la-vuejs"
-            },
-            {
-                "language":"SQL",
-                "iconClass":"fa-regular fa-database"
-            },
-            {
-                "softSkill":"Team Player",
-                "description":"I love working in large groups",
-                "iconClass":"las la-users"
+              "programmingSkills":[
+                    {
+                        "language":"HTML5",
+                        "iconClass":"lab la-html5"
+                    },
+                    {
+                        "language":"CSS3",
+                        "iconClass":"lab la-css3"
+                    },
+                    {
+                        "language":"Bootstrap5",
+                        "iconClass":"lab la-bootstrap"
+                    },
+                    {
+                        "language":"Javascript",
+                        "iconClass":"lab la-js"
+                    },
+                    {
+                        "language":"Vue JS 3",
+                        "iconClass":"lab la-vuejs"
+                    },
+                    {
+                        "language":"SQL",
+                        "iconClass":"fa-regular fa-database"
+                    },
+                    {
+                        "softSkill":"Team Player",
+                        "description":"I love working in large groups",
+                        "iconClass":"las la-users"
 
-            },
-            {
-                "softSkill":"Good Listener",
-                "description":"I enjoy listening to others.",
-                "iconClass":"las la-assistive-listening-systems"
-            },
-            {
-                "softSkill":"Communication",
-                "description":"I am not afraid to voice my opinions",
-                "iconClass":"las la-microphone"
+                    },
+                    {
+                        "softSkill":"Good Listener",
+                        "description":"I enjoy listening to others.",
+                        "iconClass":"las la-assistive-listening-systems"
+                    },
+                    {
+                        "softSkill":"Communication",
+                        "description":"I am not afraid to voice my opinions",
+                        "iconClass":"las la-microphone"
+                    }
+                ] 
             }
+            
+            
         ],
         "workExp":[
             {
