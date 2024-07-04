@@ -116,24 +116,24 @@
         ],
         "skills":[
             {
-                "name":"HTML Icon",
-                "image":"url"
+                "language":"HTML5",
+                "iconClass":"lab la-html5"
             },
             {
-                "name":"CSS Icon",
-                "image":"url"
+                "language":"CSS3",
+                "iconClass":"lab la-css3"
             },
             {
-                "name":"Javascript Icon",
-                "image":"url"
+                "language":"Bootstrap5",
+                "iconClass":"lab la-bootstrap"
             },
             {
-                "name":"Bootstrap Icon",
-                "image":"url"
+                "language":"Javascript",
+                "iconClass":"lab la-js"
             },
             {
-                "name":"Git Icon",
-                "image":"url"
+                "language":"Vue JS 3",
+                "iconClass":"lab la-vuejs"
             },
             {
                 "name":"C# Icon",
@@ -149,10 +149,6 @@
             },
             {
                 "name":"Python Icon",
-                "image":"url"
-            },
-            {
-                "name":"Vue 3 Icon",
                 "image":"url"
             }
         ],
