@@ -52,34 +52,6 @@
                 "description":"I used ...",
                 "image":"url"
             }
-            // {
-            //     "name":"Swegga",
-            //     "github":"https://github.com/C0dingForFun/swegga",
-            //     "vercel":"swegga-opal.vercel.app",
-            //     "description":"I used ...",
-            //     "image":"url"
-            // },
-            // {
-            //     "name":"Age-To-Days",
-            //     "github":"https://github.com/C0dingForFun/ageToDays",
-            //     "vercel":"age-to-days-phi.vercel.app",
-            //     "description":"I used ...",
-            //     "image":"url"
-            // },
-            // {
-            //     "name":"Temperature",
-            //     "github":"https://github.com/C0dingForFun/temperature",
-            //     "vercel":"temperature-dun.vercel.app",
-            //     "description":"I used ...",
-            //     "image":"url"
-            // },
-            // {
-            //     "name":"RGB-To-Hex",
-            //     "github":"https://github.com/C0dingForFun/rgb2hex",
-            //     "vercel":"rgb2hex-woad.vercel.app",
-            //     "description":"I used ...",
-            //     "image":"url"
-            // } 
             
         ],
         "education":[
@@ -144,7 +116,7 @@
                     },
                     {
                         "language":"SQL",
-                        "iconClass":"fa-regular fa-database",
+                        "iconClass":"fa fa-database",
                         "level":"Advanced"
                     }
                 ],
