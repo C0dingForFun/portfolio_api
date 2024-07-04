@@ -140,7 +140,9 @@
                     {
                         "language":"SQL",
                         "iconClass":"fa-database"
-                    },
+                    }
+                ],
+                "softSkills":[
                     {
                         "softSkill":"Team Player",
                         "description":"I love working in large groups",
@@ -157,7 +159,9 @@
                         "description":"I am not afraid to voice my opinions",
                         "iconClass":"las la-microphone"
                     }
-                ] 
+                    ]
+                    
+                
             }
             
             
