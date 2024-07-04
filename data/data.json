@@ -136,20 +136,34 @@
                 "iconClass":"lab la-vuejs"
             },
             {
-                "name":"C# Icon",
-                "image":"url"
+                "language":"SQL",
+                "iconClass":"fa-regular fa-database"
             },
             {
-                "name":"SQL Icon",
-                "image":"url"
+                "softSkill":"Team Player",
+                "description":"I love working in large groups",
+                "iconClass":"las la-users"
+
             },
             {
-                "name":"MySQL Icon",
-                "image":"url"
+                "softSkill":"Good Listener",
+                "description":"I enjoy listening to others.",
+                "iconClass":"las la-assistive-listening-systems"
             },
             {
-                "name":"Python Icon",
-                "image":"url"
+                "softSkill":"Responsive",
+                "description":"Advanced at creating responsiveness.",
+                "iconClass":"las la-mobile"
+            },
+            {
+                "softSkill":"Communication",
+                "description":"I love working in large groups",
+                "iconClass":"as la-microphone"
+            },
+            {
+                "softSkill":"Team Player",
+                "description":"I love working in large groups",
+                "iconClass":"fa-regular fa-database"
             }
         ],
         "workExp":[
