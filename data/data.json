@@ -161,10 +161,34 @@
         ],
         "testimonials":[
             {
+                "name":"Zen Lee George",
+                "position":"Colleague",
+                "message":"Having Gwiba as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor,creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Zen.png"
+            },
+            {
+                "name":"Keegan Niekerk",
+                "position":"Colleague",
+                "message":"A very smart and helpful person , always has the answers.He always put pride in his work and always gets the work done.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Keegan.jpg"
+            },
+            {
                 "name":"Marcus Adonis",
                 "position":"Colleague",
-                "message":"lwxn",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Life-choices.png"
+                "message":"This guy, hire him.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Marcus.png"
+            },
+            {
+                "name":"Oyintanda Zongwane",
+                "position":"Colleague",
+                "message":"Having Gwiba as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor,creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/OT.png"
+            },
+            {
+                "name":"Matthew Dean Brown",
+                "position":"Lecturer",
+                "message":"Having Gwiba as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor,creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Matthew.png"
             }
         ]
 }   
