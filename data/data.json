@@ -175,13 +175,19 @@
             {
                 "name":"Marcus Adonis",
                 "position":"Colleague",
-                "message":"This guy, hire him.",
+                "message":"This dude right here, hire him.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Marcus.png"
             },
             {
                 "name":"Oyintanda Zongwane",
                 "position":"Colleague",
                 "message":"Having Gwiba as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor,creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/OT.png"
+            },
+            {
+                "name":"Chandre`Lee Davids",
+                "position":"Colleague",
+                "message":"Gwiba Mabandla is an extraordinarily talented intelectual, his skills in back-end , to me at least , are mind-boggling. In terms of back-end, he is definitely someone you should watch out for. Watch out world!Here comes Gwiba!",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/OT.png"
             },
             {
