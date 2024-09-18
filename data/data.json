@@ -60,10 +60,10 @@
                 "workTimeline":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Education2.png",
                 "placeOfInstitution":[
                     {
-                        "nameOfInstitution":"Spine Road High School",
-                        "year":"2018-2022",
-                        "techBackground":"Information Technology",
-                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/spine-road-logo.png"
+                        "nameOfInstitution":"Life Choices Academy",
+                        "year":"2024 - current",
+                        "course":"Bootcamp",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Life-choices.png"
                     },
                     {
                         "nameOfInstitution":"College Of Cape Town",
@@ -72,10 +72,10 @@
                         "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/college_of_cape_town_logo.png"
                     },
                     {
-                        "nameOfInstitution":"Life Choices Academy",
-                        "year":"2024 - current",
-                        "course":"Bootcamp",
-                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Life-choices.png"
+                        "nameOfInstitution":"Spine Road High School",
+                        "year":"2018-2022",
+                        "techBackground":"Information Technology",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/spine-road-logo.png"
                     }
                 ],
                 "contact":[
