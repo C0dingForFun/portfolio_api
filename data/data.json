@@ -11,6 +11,13 @@
         ],
         "projects":[
             {
+                "name":"Costal Getaway",
+                "github":"https://github.com/C0dingForFun/Sum_Kicks",
+                "live":"https://capstone-a999d.web.app",
+                "description":"I used HTML,CSS,Bootstrap and Javascript to create this shoe website.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
+            },
+            {
                 "name":"GeniTech",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
                 "live":"https://node-eomp-4d23a.web.app",
@@ -123,12 +130,8 @@
                         "description":"I am not afraid to voice my opinions",
                         "iconClass":"las la-microphone"
                     }
-                    ]
-                    
-                
+                ]
             }
-            
-            
         ],
         "workExp":[
             {
