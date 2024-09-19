@@ -18,13 +18,6 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
             },
             {
-                "name":"Sun Eco Travel",
-                "github":"https://github.com/C0dingForFun/sun-eco",
-                "live":"https://sun-eco.vercel.app",
-                "description":"I used HTML and CSS to create this airline website of Sun Eco Travel.",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
-            },
-            {
                 "name":"Urbantonic",
                 "github":"https://github.com/C0dingForFun/urbantonic",
                 "live":"https://urbantonic.vercel.app",
@@ -39,11 +32,11 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Hulu.png"
             },
             {
-                "name":"Calculator",
-                "github":"https://github.com/C0dingForFun/calculator",
-                "live":"https://calculator-murex-seven.vercel.app",
+                "name":"Nacon Clone",
+                "github":"https://github.com/C0dingForFun/nacon",
+                "live":"https://nacon.vercel.app/",
                 "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Calculator.png"
+                "image":"https://github.com/C0dingForFun/nacon"
             },
             {
                 "name":"BMI Calculator",
