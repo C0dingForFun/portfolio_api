@@ -13,42 +13,42 @@
             {
                 "name":"Sum' Kicks",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
-                "vercel":"https://sum-kicks.vercel.app",
+                "live":"https://sum-kicks.vercel.app",
                 "description":"I used HTML,CSS,Bootstrap and Javascript to create this shoe website.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
             },
             {
                 "name":"Sun Eco Travel",
                 "github":"https://github.com/C0dingForFun/sun-eco",
-                "vercel":"https://sun-eco.vercel.app",
+                "live":"https://sun-eco.vercel.app",
                 "description":"I used HTML and CSS to create this airline website of Sun Eco Travel.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
                 "name":"Urbantonic",
                 "github":"https://github.com/C0dingForFun/urbantonic",
-                "vercel":"https://urbantonic.vercel.app",
+                "live":"https://urbantonic.vercel.app",
                 "description":"I used HTML and CSS to create this short and simple website of urbontonic.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
             },
             {
                 "name":"Hulu Clone",
                 "github":"https://github.com/C0dingForFun/Hulu",
-                "vercel":"https://hulu-olive.vercel.app",
+                "live":"https://hulu-olive.vercel.app",
                 "description":"I used HTML,CSS and Bootstrap to attempt on cloning Hulu's home page.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Hulu.png"
             },
             {
                 "name":"Calculator",
                 "github":"https://github.com/C0dingForFun/calculator",
-                "vercel":"https://calculator-murex-seven.vercel.app",
+                "live":"https://calculator-murex-seven.vercel.app",
                 "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Calculator.png"
             },
             {
                 "name":"BMI Calculator",
                 "github":"https://github.com/C0dingForFun/bmi",
-                "vercel":"https://bmi-hazel.vercel.app",
+                "live":"https://bmi-hazel.vercel.app",
                 "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional BMI Calulator",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/BMI.png"
             }
