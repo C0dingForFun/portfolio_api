@@ -39,6 +39,13 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/nacon.png"
             },
             {
+                "name":"Sun Eco Travel",
+                "github":"https://github.com/C0dingForFun/sun-eco",
+                "live":"https://sun-eco.vercel.app/",
+                "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun_Eco.png"
+            },
+            {
                 "name":"Urbantonic",
                 "github":"https://github.com/C0dingForFun/urbantonic",
                 "live":"https://urbantonic.vercel.app",
