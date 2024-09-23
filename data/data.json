@@ -32,18 +32,18 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Blended-Images.png"
             },
             {
-                "name":"Urbantonic",
-                "github":"https://github.com/C0dingForFun/urbantonic",
-                "live":"https://urbantonic.vercel.app",
-                "description":"I used HTML and CSS to create this short and simple website of urbontonic.",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
-            },
-            {
                 "name":"Nacon Clone",
                 "github":"https://github.com/C0dingForFun/nacon",
                 "live":"https://nacon.vercel.app/",
                 "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/nacon.png"
+            },
+            {
+                "name":"Urbantonic",
+                "github":"https://github.com/C0dingForFun/urbantonic",
+                "live":"https://urbantonic.vercel.app",
+                "description":"I used HTML and CSS to create this short and simple website of urbontonic.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
             }
             
         ],
