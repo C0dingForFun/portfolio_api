@@ -151,6 +151,16 @@
                         "softSkill":"Alert",
                         "description":"I am always ready to do anything.",
                         "iconClass":"las la-exclamation"
+                    },
+                    {
+                        "softSkill":"Time Management",
+                        "description":"Recently I have been practicing managing my time efficiently.",
+                        "iconClass":"las la-calendar"
+                    },
+                    {
+                        "softSkill":"Task Manager",
+                        "description":"I always finish my tasks on time, with time to spare.",
+                        "iconClass":"las la-tasks"
                     }
                 ]
             }
