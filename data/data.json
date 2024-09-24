@@ -161,6 +161,16 @@
                         "softSkill":"Task Manager",
                         "description":"I always finish my tasks on time, with time to spare.",
                         "iconClass":"las la-tasks"
+                    },
+                    {
+                        "softSkill":"Early Bird",
+                        "description":"I always do my best to make it to work on time.",
+                        "iconClass":"las la-business-time"
+                    },
+                    {
+                        "softSkill":"Positive attitude",
+                        "description":"Maintain a positive demeanour to motivate performance.",
+                        "iconClass":"las la-grin-beam"
                     }
                 ]
             }
