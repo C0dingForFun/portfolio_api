@@ -153,7 +153,7 @@
                         "iconClass":"las la-exclamation"
                     },
                     {
-                        "softSkill":"Time Management",
+                        "softSkill":"Scheduling",
                         "description":"I have been practicing managing my time efficiently.",
                         "iconClass":"las la-calendar"
                     },
@@ -168,8 +168,8 @@
                         "iconClass":"las la-business-time"
                     },
                     {
-                        "softSkill":"Positive attitude",
-                        "description":"Maintain a positive to motivate performance.",
+                        "softSkill":"Positivity",
+                        "description":"Maintain a positivity to motivate performance.",
                         "iconClass":"las la-grin-beam"
                     }
                 ]
