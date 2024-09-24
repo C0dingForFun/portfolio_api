@@ -120,6 +120,11 @@
                         "level":"Advanced"
                     },
                     {
+                        "language":"MySQL",
+                        "iconClass":"fa fa-database",
+                        "level":"Advanced"
+                    },
+                    {
                         "language":"Node JS",
                         "iconClass":"lab la-node",
                         "level":"Intermediate"
