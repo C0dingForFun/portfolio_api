@@ -110,7 +110,7 @@
                         "level":"Intermediate"
                     },
                     {
-                        "language":"Vue JS 3",
+                        "language":"Vue3 JS",
                         "iconClass":"lab la-vuejs",
                         "level":"Intermediate"
                     },
@@ -118,6 +118,11 @@
                         "language":"SQL",
                         "iconClass":"fa fa-database",
                         "level":"Advanced"
+                    },
+                    {
+                        "language":"Node JS",
+                        "iconClass":"lab la-node",
+                        "level":"Intermediate"
                     }
                 ],
                 "softSkills":[
@@ -136,6 +141,11 @@
                         "softSkill":"Communication",
                         "description":"I am not afraid to voice my opinions",
                         "iconClass":"las la-microphone"
+                    },
+                    {
+                        "softSkill":"Alert",
+                        "description":"I am always ready to do anything.",
+                        "iconClass":"las la-exclamation"
                     }
                 ]
             }
