@@ -1,7 +1,7 @@
 {
         "aboutMe":[
             {
-                "me":"Hello, I am Gwiba Mabandla, I am an aspiring Developer,other than coding I love playing football and photography.My world is based on passion, pixels and beautiful landscapes.",
+                "me":"Hello, I am Gwiba Mabandla, I am an aspiring Web Developer,other than coding I love playing football and photography.My world is based on passion, pixels and beautiful landscapes.",
                 "name":"Gwiba Mabandla",
                 "age":"19",
                 "hobbies":"Football and Photography, working on personal projects",
@@ -14,35 +14,35 @@
                 "name":"Costal Getaway",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
                 "live":"https://capstone-a999d.web.app",
-                "description":"I used HTML,CSS,Bootstrap and Javascript to create this shoe website.",
+                "description":"I used HTML, CSS, Bootstrap, Javascript, Node JS, and Vue3 JS to create this booking system website.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/capstone.png"
             },
             {
                 "name":"GeniTech",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
                 "live":"https://node-eomp-4d23a.web.app",
-                "description":"I used HTML,CSS,Bootstrap and Javascript to create this shoe website.",
+                "description":"I used HTML, CSS, Bootstrap, Javascript, Node JS, and Vue3 JS to create this tech website with my project partner.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/node.png"
             },
             {
                 "name":"Sum' Kicks",
                 "github":"https://github.com/C0dingForFun/Sum_Kicks",
                 "live":"https://sum-kicks.vercel.app",
-                "description":"I used HTML,CSS,Bootstrap and Javascript to create this shoe website.",
+                "description":"I used HTML, CSS,  Bootstrap and Javascript to create this shoe website.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/sum_kicks.png"
             },
             {
                 "name":"Nacon Clone",
                 "github":"https://github.com/C0dingForFun/nacon",
                 "live":"https://nacon.vercel.app/",
-                "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
+                "description":"I used HTML, CSS and Bootstrap to clone nacon's home page.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/nacon.png"
             },
             {
                 "name":"Sun Eco Travel",
                 "github":"https://github.com/C0dingForFun/sun-eco",
                 "live":"https://sun-eco.vercel.app/",
-                "description":"I used HTML,CSS,Bootstrap and Javascript to create a fully functional calculator",
+                "description":"I used HTML, CSS, and Bootstrap to create this airline website.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
