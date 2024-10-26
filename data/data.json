@@ -6,7 +6,7 @@
                 "age":"19",
                 "hobbies":"Football and Photography, working on personal projects",
                 "aspiringToBe":"Web Developer",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/Me.png"
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/ThatsMe.png"
             }
         ],
         "projects":[
@@ -179,13 +179,12 @@
             {
                 "placeOfWork":"LC Studio",
                 "year":"2024 - current",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/Life-choices.png",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/LC_Studio.jpg",
                 "contact":[
                     {
-                        "name":"Candice Amon",
-                        "cell":"+21 63 688 1563",
-                        "email":"candice@lifechoices.co.za",
-                        "position":"Manager"
+                        "name":"Darron Gelderbloem",
+                        "email":"darron@lifechoices.co.za",
+                        "position":"Programme Manager"
                     }
                 ]
             }
