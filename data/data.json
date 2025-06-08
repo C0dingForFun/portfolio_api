@@ -178,13 +178,30 @@
         "workExp":[
             {
                 "placeOfWork":"LC Studio",
-                "year":"2024 - current",
+                "year":"Sep 2024 - Dec 2024",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/LC_Studio.jpg",
                 "contact":[
                     {
                         "name":"Darron Gelderbloem",
                         "email":"darron@lifechoices.co.za",
                         "position":"Programme Manager"
+                    }
+                ]
+            },
+            {
+                "placeOfWork":"CiMSO",
+                "year":"Jan 2025 - Current",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/CiMSO.png",
+                "contact":[
+                    {
+                        "name":"Cheryl Le Roux",
+                        "email":"development@cimso.com",
+                        "position":"Project Manager"
+                    },
+                    {
+                        "name":"Janco van Heerdan",
+                        "email":"janch@cimso.com",
+                        "position":"Training Supervisor"
                     }
                 ]
             }
