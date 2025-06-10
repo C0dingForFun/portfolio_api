@@ -11,7 +11,7 @@
         ],
         "projects":[
             {
-                "name":"Costal Getaway",
+                "name":"Coastal Getaway",
                 "github":"https://github.com/C0dingForFun/capstone",
                 "live":"https://capstone-a999d.web.app",
                 "description":"I used HTML, CSS, Bootstrap, Javascript, Node JS, and Vue3 JS to create this booking system website.",
@@ -46,10 +46,10 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
-                "name":"Urbantonic",
+                "name":"To-do List",
                 "github":"https://github.com/C0dingForFun/urbantonic",
                 "live":"https://urbantonic.vercel.app",
-                "description":"I used HTML and CSS to create this short and simple website of urbontonic.",
+                "description":"I used React and Tailwind to create this To-do List.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Urbantonic.png"
             }
             
@@ -100,8 +100,8 @@
                         "level":"Advanced"
                     },
                     {
-                        "language":"Bootstrap5",
-                        "iconClass":"lab la-bootstrap",
+                        "language":"tailwind",
+                        "iconClass":"lab la-tailwind",
                         "level":"Advanced"
                     },
                     {
@@ -115,18 +115,18 @@
                         "level":"Intermediate"
                     },
                     {
-                        "language":"SQL",
-                        "iconClass":"fa fa-database",
-                        "level":"Advanced"
+                        "language":"Next.js",
+                        "iconClass":"lab la-nextjs",
+                        "level":"Intermediate"
                     },
                     {
                         "language":"MySQL",
                         "iconClass":"fa fa-database",
-                        "level":"Advanced"
+                        "level":"Intermediate"
                     },
                     {
-                        "language":"Node JS",
-                        "iconClass":"lab la-node",
+                        "language":"Python",
+                        "iconClass":"lab la-python",
                         "level":"Intermediate"
                     }
                 ],
@@ -200,8 +200,8 @@
                     },
                     {
                         "name":"Janco van Heerdan",
-                        "email":"janch@cimso.com",
-                        "position":"Training Supervisor"
+                        "email":"jancovh@cimso.com",
+                        "position":"Developer"
                     }
                 ]
             }
@@ -240,7 +240,7 @@
             {
                 "name":"Matthew Dean Brown",
                 "position":"Lecturer",
-                "message":"I have had the pleasure of witnessing Gwibas growth and profiency firsthand.His contribtions to to class discussions, activities and projects have consistently demostrated is dedication and capability.",
+                "message":"I have had the pleasure of witnessing Gwibas growth and profiency firsthand.His contribtions to to class discussions, activities and projects have consistently demostrated his dedication and capability.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Testimonials/Matthew.png"
             }
         ]
