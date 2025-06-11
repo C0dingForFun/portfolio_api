@@ -46,7 +46,7 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
             },
             {
-                "name":"To-do List",
+                "name":"Urbantonic",
                 "github":"https://github.com/C0dingForFun/urbantonic",
                 "live":"https://urbantonic.vercel.app",
                 "description":"I used React and Tailwind to create this To-do List.",
