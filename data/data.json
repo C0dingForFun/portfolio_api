@@ -179,6 +179,19 @@
             {
                 "placeOfWork":[
                     {
+                        "placeOfName":"CiMSO",
+                        "year":"Jan 2025 - Current",
+                        "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/CiMSO.png",
+                        "contact":[
+                            {
+                                "name":"Janco van Heerdan",
+                                "email":"jancovh@cimso.com",
+                                "position":"Developer"
+                            }
+                        ]
+                        
+                    },
+                    {
                         "placeName":"LC Studio",
                         "year":"Sep 2024 - Dec 2024",
                         "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/LC_Studio.jpg",
@@ -189,25 +202,6 @@
                                 "position":"Programme Manager"
                             }
                         ]
-                    }
-                ]
-                
-                
-            },
-            {
-                "placeOfWork":"CiMSO",
-                "year":"Jan 2025 - Current",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Education/CiMSO.png",
-                "contact":[
-                    {
-                        "name":"Cheryl Le Roux",
-                        "email":"development@cimso.com",
-                        "position":"Project Manager"
-                    },
-                    {
-                        "name":"Janco van Heerdan",
-                        "email":"jancovh@cimso.com",
-                        "position":"Developer"
                     }
                 ]
             }
