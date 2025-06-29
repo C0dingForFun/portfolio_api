@@ -41,7 +41,7 @@
             {
                 "name":"To-do List",
                 "github":"https://github.com/C0dingForFun/react-to-do-list",
-                "live":"react-to-do-list-tau-dun.vercel.app",
+                "live":"https://react-to-do-list-tau-dun.vercel.app/",
                 "description":"I used ReactJs and Bootstrap to make this to-list.",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/To-do-list.png"
             },
