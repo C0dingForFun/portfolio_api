@@ -39,11 +39,11 @@
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/nacon.png"
             },
             {
-                "name":"Sun Eco Travel",
-                "github":"https://github.com/C0dingForFun/sun-eco",
-                "live":"https://sun-eco.vercel.app/",
-                "description":"I used HTML, CSS, and Bootstrap to create this airline website.",
-                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/Sun-Eco.png"
+                "name":"To-do List",
+                "github":"https://github.com/C0dingForFun/react-to-do-list",
+                "live":"react-to-do-list-tau-dun.vercel.app",
+                "description":"I used ReactJs and Bootstrap to make this to-list.",
+                "image":"https://c0dingforfun.github.io/portfolioimg/Images/Projects/To-do-list.png"
             },
             {
                 "name":"Urbantonic",
