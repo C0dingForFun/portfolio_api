@@ -1,11 +1,11 @@
 {
         "aboutMe":[
             {
-                "me":"Hello, I am Gwiba Mabandla, I am a FullStack Developer, other than coding I love playing gaming and photography. My world is based on passion, pixels and beautiful landscapes.",
+                "me":"Hello, I am Gwiba Mabandla, other than coding I love playing gaming and photography. My world is based on passion, pixels and beautiful landscapes.",
                 "name":"Gwiba Mabandla",
                 "age":"20",
-                "hobbies":"Football and Photography, working on personal projects",
-                "aspiringToBe":"Web Developer",
+                "hobbies":"Gaming and Photography, working on personal projects",
+                "aspiringToBe":"FullStack Developer",
                 "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/MyPic.jpg"
             }
         ],
